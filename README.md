@@ -6,6 +6,9 @@
 ## 실행방법
 ```git clone https://github.com/CodeBlue007/Do_it_JS_Study.git ```
 
+## Update된 자료 받을때
+```git pull origin main ```
+
 
 코드 실행을 위해서는 
 
